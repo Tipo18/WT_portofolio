@@ -54,7 +54,7 @@ cursor()
                 </div>
 
                 <div className="project_item reveal">
-                  <div className="image"><img src="/CNN.png" alt="illu cnn echo cardio" /></div>
+                  <div className="image"><img src="CNN.png" alt="illu cnn echo cardio" /></div>
                 </div>
                 
             </div>

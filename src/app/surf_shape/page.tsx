@@ -53,17 +53,17 @@ cursor()
                 </div>
 
                 <div className="project_item reveal">
-                  <div className="image"><img src="/surf_illu(1).gif" alt="Shapping a surfboard" /></div>
+                  <div className="image"><img src="surf_illu(1).gif" alt="Shapping a surfboard" /></div>
                 </div>
                 
             </div>
           </div>
 
           <div className="project_images_row_surf reveal delay-1">
-            <img src="/surf_illu(2).png" alt="Camera illustration 1" />
+            <img src="surf_illu(2).png" alt="Camera illustration 1" />
             <div className="video-wrapper">
             <video controls preload="none" aria-label="Video player">
-              <source src="/surf_illu(3).mov" type="video/quicktime" />
+              <source src="surf_illu(3).mov" type="video/quicktime" />
               Your browser does not support the video tag.
             </video>
             </div>

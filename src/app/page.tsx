@@ -42,7 +42,7 @@ cursor()
       <div className="featured_section">
         <div className="featured_grid">
             <a href="/cam_t-1" className="featured_item reveal delay-1">
-              <div className="image"><img src="/cam.png" alt="Camera T-1" /></div>
+              <div className="image"><img src="cam.png" alt="Camera T-1" /></div>
               <div className="texte">
                 <div className="titre">Camera T-1</div>
                 <div className="corps">
@@ -52,7 +52,7 @@ cursor()
             </a>
 
           <a href="/climbing_wall"className="featured_item reveal delay-2">
-            <div className="image"><img src="/mur.png" alt="Portable Climbing Wall" /></div>
+            <div className="image"><img src="mur.png" alt="Portable Climbing Wall" /></div>
             <div className="texte">
               <div className="titre">Portable Climbing Wall</div>
               <div className="corps">
@@ -62,7 +62,7 @@ cursor()
           </a>
 
           <a href="/surf_shape"className="featured_item reveal delay-3">
-            <div className="image"><img src="/surf.png" alt="Shaping a Surfboard" /></div>
+            <div className="image"><img src="surf.png" alt="Shaping a Surfboard" /></div>
             <div className="texte">
               <div className="titre">Shaping a Surfboard</div>
               <div className="corps">
@@ -77,7 +77,7 @@ cursor()
         {/* Other Projects */}
         <div className="project reveal">
           <a href="/satelite_catching"className="image">
-            <img src="/NOAA.png" alt="satelite_catching" />
+            <img src="NOAA.png" alt="satelite_catching" />
           </a>
           <a href="/satelite_catching" className="texte">
             <div className="titre">Catching Satelite</div>
@@ -89,7 +89,7 @@ cursor()
 
         <div className="project reveal">
           <a href="/photography" className="image">
-            <img src="/photo.png" alt="photography" />
+            <img src="photo.png" alt="photography" />
           </a>
           <a href="/photography" className="texte">
             <div className="titre">Photography</div>
@@ -101,7 +101,7 @@ cursor()
 
         <div className="project reveal">
           <a href="/CNN_echocard" className="image">
-            <img src="/CNN.png" alt="CNN_echocard" />
+            <img src="CNN.png" alt="CNN_echocard" />
           </a>
           <a href="/CNN_echocard" className="texte">
             <div className="titre">CNN for echocardiography</div>
@@ -113,7 +113,7 @@ cursor()
 
         <div className="project reveal">
           <a href="/elec_motor" className="image">
-            <img src="/motor.png" alt="elec_motor" />
+            <img src="motor.png" alt="elec_motor" />
           </a>
           <a href="/elec_motor" className="texte">
             <div className="titre">3D printed electric motor</div>

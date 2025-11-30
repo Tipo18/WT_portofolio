@@ -41,7 +41,7 @@ cursor()
 
       <div className="featured_section">
         <div className="featured_grid">
-            <a href="/WT_portofolio/WT_portofolio/cam_t-1" className="featured_item reveal delay-1">
+            <Link href="WT_portofolio/cam_t-1" className="featured_item reveal delay-1">
               <div className="image"><img src="cam.png" alt="Camera T-1" /></div>
               <div className="texte">
                 <div className="titre">Camera T-1</div>
@@ -49,9 +49,9 @@ cursor()
                   An archive-finding camera to travel through time in the place you are
                 </div>
               </div>
-            </a>
+            </Link>
 
-          <a href="/WT_portofolio/climbing_wall"className="featured_item reveal delay-2">
+          <Link href="/climbing_wall"className="featured_item reveal delay-2">
             <div className="image"><img src="mur.png" alt="Portable Climbing Wall" /></div>
             <div className="texte">
               <div className="titre">Portable Climbing Wall</div>
@@ -59,9 +59,9 @@ cursor()
                 A free-standing spray wall with an autonomous electronics route system
               </div>
             </div>
-          </a>
+          </Link>
 
-          <a href="/WT_portofolio/surf_shape"className="featured_item reveal delay-3">
+          <Link href="/surf_shape"className="featured_item reveal delay-3">
             <div className="image"><img src="surf.png" alt="Shaping a Surfboard" /></div>
             <div className="texte">
               <div className="titre">Shaping a Surfboard</div>
@@ -69,58 +69,58 @@ cursor()
                 Associative project of designing and creating our own surfboard
               </div>
             </div>
-          </a>
+          </Link>
         </div>
       </div>
 
 
         {/* Other Projects */}
         <div className="project reveal">
-          <a href="/WT_portofolio/satelite_catching"className="image">
+          <Link href="/satelite_catching"className="image">
             <img src="NOAA.png" alt="satelite_catching" />
-          </a>
-          <a href="/WT_portofolio/satelite_catching" className="texte">
+          </Link>
+          <Link href="/satelite_catching" className="texte">
             <div className="titre">Catching Satelite</div>
             <div className="corps">
               DIY radio antenna to capture images from NOAA meteo satelite
             </div>
-          </a>
+          </Link>
         </div>
 
         <div className="project reveal">
-          <a href="/WT_portofolio/photography" className="image">
+          <Link href="/photography" className="image">
             <img src="photo.png" alt="photography" />
-          </a>
-          <a href="/WT_portofolio/photography" className="texte">
+          </Link>
+          <Link href="/photography" className="texte">
             <div className="titre">Photography</div>
             <div className="corps">
               some photo made through the years when I felt like it
             </div>
-          </a>
+          </Link>
         </div>
 
         <div className="project reveal">
-          <a href="/WT_portofolio/CNN_echocard" className="image">
+          <Link href="/CNN_echocard" className="image">
             <img src="CNN.png" alt="CNN_echocard" />
-          </a>
-          <a href="/WT_portofolio/CNN_echocard" className="texte">
+          </Link>
+          <Link href="/CNN_echocard" className="texte">
             <div className="titre">CNN for echocardiography</div>
             <div className="corps">
               Assembling of a microcontroler pcb and developpement of applications
             </div>
-          </a>
+          </Link>
         </div>
 
         <div className="project reveal">
-          <a href="/WT_portofolio/elec_motor" className="image">
+          <Link href="/elec_motor" className="image">
             <img src="motor.png" alt="elec_motor" />
-          </a>
-          <a href="/WT_portofolio/elec_motor" className="texte">
+          </Link>
+          <Link href="/elec_motor" className="texte">
             <div className="titre">3D printed electric motor</div>
             <div className="corps">
               Assembling of a microcontroler pcb and developpement of applications
             </div>
-          </a>
+          </Link>
         </div>
       </div>
 

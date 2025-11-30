@@ -129,7 +129,7 @@ body {
   width: 100%;
 }
 
-.featured_section a {
+.featured_section Link {
   text-decoration: none;   
   color: inherit;         
 }
@@ -195,7 +195,7 @@ body {
   text-align: center;
 }
 
-.project a {
+.project Link {
   text-decoration: none;   
   color: inherit;         
 }

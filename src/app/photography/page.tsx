@@ -48,7 +48,7 @@ cursor()
                 </div>
 
                 <div className="project_item reveal">
-                  <div className="image"><img src="/photo.png" alt="photo" /></div>
+                  <div className="image"><img src="/WT_portofolio/photo.png" alt="photo" /></div>
                 </div>
                 
             </div>
@@ -56,23 +56,23 @@ cursor()
 
         <div className="photo_row reveal">
           <div className="photo_col">
-            <img src="/photo_illu(3).jpg" alt="photo 1" />
-            <img src="/photo_illu(5).jpg" alt="photo 2" />
+            <img src="/WT_portofolio/photo_illu(3).jpg" alt="photo 1" />
+            <img src="/WT_portofolio/photo_illu(5).jpg" alt="photo 2" />
           </div>
 
           <div className="photo_vertical">
-            <img src="/photo_illu(2).jpg" alt="photo 3 vertical" />
+            <img src="/WT_portofolio/photo_illu(2).jpg" alt="photo 3 vertical" />
           </div>
         </div>
 
         <div className="photo_row reveal">
           <div className="photo_vertical">
-            <img src="/photo_illu(6).jpg" alt="photo 4 vertical" />
+            <img src="/WT_portofolio/photo_illu(6).jpg" alt="photo 4 vertical" />
           </div>
 
           <div className="photo_col">
-            <img src="/photo_illu(1).jpg" alt="photo 5" />
-            <img src="/photo_illu(7).jpg" alt="photo 6" />
+            <img src="/WT_portofolio/photo_illu(1).jpg" alt="photo 5" />
+            <img src="/WT_portofolio/photo_illu(7).jpg" alt="photo 6" />
           </div>
         </div>
 

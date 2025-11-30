@@ -40,7 +40,14 @@ cursor()
           <div className="contact_block reveal">
             <p className="contact_title">Contact</p>
             <p>
-              Email: <a href="mailto:tim.darma@hotmail.fr">tim.darma@hotmail.fr</a>
+              <br></br>
+              <a href="mailto:tim.darma@hotmail.fr">tim.darma@hotmail.fr</a>
+              <br></br>
+              <br></br>
+              <a href="https://www.linkedin.com/in/timoth%C3%A9e-darmaillacq/">LinkedIn</a>
+              <br></br>
+              <br></br>
+              <a href="Cv_TimothéeDarmaillacq_en.pdf" target="_blank">CV</a>
             </p>
           </div>
         </div>

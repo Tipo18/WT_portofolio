@@ -49,15 +49,15 @@ cursor()
                 </div>
 
                 <div className="project_item reveal">
-                  <div className="image"><img src="cam.png" alt="Portable Climbing Wall" /></div>
+                  <div className="image"><img src="/cam.png" alt="Portable Climbing Wall" /></div>
                 </div>
                 
             </div>
           </div>
 
             <div className="project_images_col reveal delay-1">
-              <img src="cam_illu(1).png" alt="Camera illustration 1" />
-              <img src="cam_illu(2).png" alt="Camera illustration 2" />
+              <img src="/cam_illu(1).png" alt="Camera illustration 1" />
+              <img src="/cam_illu(2).png" alt="Camera illustration 2" />
             </div>
 
         </div>

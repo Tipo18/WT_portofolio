@@ -50,7 +50,7 @@ cursor()
                 </div>
 
                 <div className="project_item reveal">
-                  <div className="image"><img src="/WT_portofolio/motor.png" alt="Portable Climbing Wall" /></div>
+                  <div className="image"><img src="motor.png" alt="Portable Climbing Wall" /></div>
                 </div>
                 
             </div>
@@ -59,7 +59,7 @@ cursor()
           <div className="project_images_row reveal delay-1">
             <div className="video-wrapper">
             <video controls preload="none" aria-label="Video player">
-              <source src="/WT_portofolio/motor_illu(1).mov" type="video/quicktime" />
+              <source src="motor_illu(1).mov" type="video/quicktime" />
               Your browser does not support the video tag.
             </video>
             </div>

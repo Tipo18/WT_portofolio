@@ -157,6 +157,12 @@ body {
   gap: 20px;
 }
 
+.featured_section a {
+  text-decoration: none;   
+  color: inherit;         
+}
+
+
 .featured_item .image img {
   width: 100%;
   max-width: 350px;
@@ -199,6 +205,12 @@ body {
   padding-bottom: 60px;
   text-align: center;
 }
+
+.project a {
+  text-decoration: none;   
+  color: inherit;         
+}
+
 
 .project .image img {
   width: 100%;

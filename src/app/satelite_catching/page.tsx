@@ -49,21 +49,21 @@ cursor()
                 </div>
 
                 <div className="project_item reveal">
-                  <div className="image"><img src="NOAA.png" alt="satelite image" /></div>
+                  <div className="image"><img src="/WT_portofolio/NOAA.png" alt="satelite image" /></div>
                 </div>
                 
             </div>
           </div>
 
           <div className="project_images_row_surf reveal delay-1">
-            <img src="NOAA_illu(3).jpeg" alt="satelite image illustration 1" />
-            <img src="NOAA_illu(1).png" alt="satelite image illustration 2" />
+            <img src="/WT_portofolio/NOAA_illu(3).jpeg" alt="satelite image illustration 1" />
+            <img src="/WT_portofolio/NOAA_illu(1).png" alt="satelite image illustration 2" />
           </div>
 
 
           <div className="project_images_col reveal delay-1">
           <audio controls>
-            <source src="NOAA_illu(2).mp3" type="audio/mpeg" />
+            <source src="/WT_portofolio/NOAA_illu(2).mp3" type="audio/mpeg" />
               Your browser does not support the audio element.
             </audio>
             <p>An extract of the recieved signals, which encode the image</p>

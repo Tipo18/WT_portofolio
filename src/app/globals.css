@@ -134,9 +134,14 @@ body {
   color: inherit;         
 }
 
-.div {
+.titre {
   text-decoration: none;   
-  color: inherit;  
+  color: inherit;     
+}
+
+.corps {
+  text-decoration: none;   
+  color: inherit;     
 }
 
 .featured_grid {

@@ -134,6 +134,11 @@ body {
   color: inherit;         
 }
 
+.div {
+  text-decoration: none;   
+  color: inherit;  
+}
+
 .featured_grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

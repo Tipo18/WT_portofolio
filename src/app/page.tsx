@@ -41,7 +41,7 @@ cursor()
 
       <div className="featured_section">
         <div className="featured_grid">
-            <Link href="WT_portofolio/cam_t-1" className="featured_item reveal delay-1">
+            <Link href="/cam_t-1" className="featured_item reveal delay-1">
               <div className="image"><img src="cam.png" alt="Camera T-1" /></div>
               <div className="texte">
                 <div className="titre">Camera T-1</div>

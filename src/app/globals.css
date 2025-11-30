@@ -129,11 +129,6 @@ body {
   width: 100%;
 }
 
-.featured_section a {
-  text-decoration: none;   
-  color: inherit;         
-}
-
 .titre {
   text-decoration: none;   
   color: inherit;     
@@ -203,11 +198,6 @@ body {
   padding-top: 30px;
   padding-bottom: 60px;
   text-align: center;
-}
-
-.project a {
-  text-decoration: none;   
-  color: inherit;         
 }
 
 .project .image img {
